@@ -186,6 +186,10 @@ x_{t+1} = x_t + v_{t+1} * dt
 | 5.0 | 布料很快稳定，摆动幅度小 |
 | 20.0 | 布料摆动幅度最小 |
 
+（无小球）阻尼系数为1 （无小球）阻尼系数为5 （无小球）阻尼系数为20
+
+（有小球）阻尼系数为1 （有小球）阻尼系数为5 （有小球）阻尼系数为20
+
 ### 积分方法稳定性
 
 - **显式欧拉**：在较大时间步或高刚度下容易发散
@@ -209,7 +213,6 @@ x_{t+1} = x_t + v_{t+1} * dt
 - [Games101 计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
 - [Mass-Spring System in Computer Graphics](https://en.wikipedia.org/wiki/Mass-spring_system)
 
----
 
 ## 📄 许可证
 

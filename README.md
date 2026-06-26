@@ -188,12 +188,12 @@ x_{t+1} = x_t + v_{t+1} * dt
 
 （无小球）阻尼系数为1 （无小球）阻尼系数为5 
 
-<img width="320" height="480" alt="converted+1" src="https://github.com/user-attachments/assets/07966c1e-8a0b-46d6-856d-bac86e8c48fa" /> <img width="320" height="480" alt="converted+小球5" src="https://github.com/user-attachments/assets/8b5f1ba6-4d2f-4ead-81cf-23a02869027b" />
+<img width="400" height="400" alt="converted+1" src="https://github.com/user-attachments/assets/07966c1e-8a0b-46d6-856d-bac86e8c48fa" /> <img width="400" height="400" alt="converted+小球5" src="https://github.com/user-attachments/assets/8b5f1ba6-4d2f-4ead-81cf-23a02869027b" />
 
 
 （有小球）阻尼系数为5 （有小球）阻尼系数为20
 
-<img width="480" height="480" alt="converted+小球5+(2)" src="https://github.com/user-attachments/assets/b9074283-af6d-4df8-b8fc-287a04733755" /> <img width="480" height="480" alt="converted+小球20" src="https://github.com/user-attachments/assets/9ffcf8d7-765d-4209-8fbe-d2f1b7b01643" />
+<img width="400" height="400" alt="converted+小球5+(2)" src="https://github.com/user-attachments/assets/b9074283-af6d-4df8-b8fc-287a04733755" /> <img width="400" height="400" alt="converted+小球20" src="https://github.com/user-attachments/assets/9ffcf8d7-765d-4209-8fbe-d2f1b7b01643" />
 
 
 
